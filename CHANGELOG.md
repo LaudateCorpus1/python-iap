@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-iap/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#57](https://github.com/googleapis/python-iap/issues/57)) ([1787cb0](https://github.com/googleapis/python-iap/commit/1787cb00158f111915d0f9bb948abeceab75a6f4))
+
 ### [1.2.1](https://www.github.com/googleapis/python-iap/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
